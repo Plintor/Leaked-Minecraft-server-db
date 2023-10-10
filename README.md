@@ -37,6 +37,8 @@ Here are all leaked Minecraft server databases (that I found)
 [workupload](https://workupload.com/file/4492Zux3ZBx)
 
 [MEGA](https://mega.nz/file/xT0RFDzL#CrNzwHpC6z9NX4Jqj5dGLdmfVoEoH--4SfHeDQHMpgc)
-# New Archive DB
+# New bih archive DB (334)
 
 [Pcloud](https://transfer.pcloud.com/download.html?code=5ZWgQiVZ8hRHFpvPi6JZIpjaZDuVIdYeFdwR2jFsp2n6znkW5NLdV)
+
+[Mega](https://mega.nz/file/ki8U1CjQ#mj-1npyF39Ud0QVsR8oN1uHPvrKMouamTvSu9_urTPY)
