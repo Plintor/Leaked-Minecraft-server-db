@@ -32,8 +32,9 @@ Here are all leaked Minecraft server databases (that I found)
 [+] STREAMCRAFT 2020 BY FTH.SU
 
 # Download
-anonfiles - https://anonfiles.com/ReIa30n8z2/_rar
+[anonfiles](https://transfer.pcloud.com/download.html?code=5ZWgQiVZ8hRHFpvPi6JZIpjaZDuVIdYeFdwR2jFsp2n6znkW5NLdV)
+[workupload](https://workupload.com/file/4492Zux3ZBx)
+[MEGA](https://mega.nz/file/xT0RFDzL#CrNzwHpC6z9NX4Jqj5dGLdmfVoEoH--4SfHeDQHMpgc)
+# New Archive DB
 
-workupload - https://workupload.com/file/4492Zux3ZBx
-
-MEGA - https://mega.nz/file/xT0RFDzL#CrNzwHpC6z9NX4Jqj5dGLdmfVoEoH--4SfHeDQHMpgc
+[Pcloud](https://transfer.pcloud.com/download.html?code=5ZWgQiVZ8hRHFpvPi6JZIpjaZDuVIdYeFdwR2jFsp2n6znkW5NLdV)
