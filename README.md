@@ -42,3 +42,9 @@ Here are all leaked Minecraft server databases (that I found)
 [Pcloud](https://transfer.pcloud.com/download.html?code=5ZWgQiVZ8hRHFpvPi6JZIpjaZDuVIdYeFdwR2jFsp2n6znkW5NLdV)
 
 [Mega](https://mega.nz/file/ki8U1CjQ#mj-1npyF39Ud0QVsR8oN1uHPvrKMouamTvSu9_urTPY)
+
+# FerretCheckVIP
+
+[Pcloud](https://transfer.pcloud.com/download.html?code=5ZkvniVZ8hRHFpvPi6JZIpjaZJHQTlQWYXLkuBwfLNdhqa7gPsdiV)
+
+[Mega](https://mega.nz/file/x2d0zLBD#0LW9RhBHGAca7Bo09UJHYmyE0NaRsCuq1xF_IbaK9Is)
